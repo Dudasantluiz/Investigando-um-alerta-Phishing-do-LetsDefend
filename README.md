@@ -58,3 +58,6 @@ Clique em “EXCLUIR” para continuar.
 ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/b2782d7721408a59348e87f85a944ea4a037f059/Phishing/Captura%20de%20tela%202026-04-16%20110102.png)
 
 Para confirmar se o anexo foi aberto ou não, acessei o VirusTotal e verifiquei o endereço de contato.
+Ao verificar o endereço de contato, comparei as informações com o gerenciamento de logs do SIEM, consultando o sistema de gerenciamento de logs.
+
+![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/a27acd3f70289236f56073c0f042e34ae47bdcdd/Phishing/Captura%20de%20tela%202026-04-16%20110742.png)
