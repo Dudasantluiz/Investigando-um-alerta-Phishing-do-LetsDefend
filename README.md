@@ -50,3 +50,5 @@ Para confirmar se o e-mail foi entregue ao usuário, acessei o canal de investig
 
 Pressione Enter ou clique para ver a imagem em tamanho real.
 ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/84c6c70a30a71925ddd33b2ed6f24d86d01ce018/Phishing/Captura%20de%20tela%202026-04-16%20105716.png)
+
+Após verificar a ação do dispositivo destacada em vermelho, consta como permitida, o que significa que foi "Entregue".
