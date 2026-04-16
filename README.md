@@ -30,3 +30,5 @@ Qual é o endereço do destinatário?
 richard@letsdefend.io
 
 O conteúdo do e-mail é suspeito? Para verificar se o conteúdo do e-mail é suspeito, acesse a segurança de e-mail no painel do Let's Defend SIEM e procure o endereço de e-mail do destinatário.
+
+Clique no e-mail, copie o nome do anexo e cole-o no VirusTotal para confirmar se o anexo é suspeito.
