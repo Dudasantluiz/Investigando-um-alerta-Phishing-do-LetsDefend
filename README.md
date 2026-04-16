@@ -61,3 +61,4 @@ Para confirmar se o anexo foi aberto ou não, acessei o VirusTotal e verifiquei 
 Ao verificar o endereço de contato, comparei as informações com o gerenciamento de logs do SIEM, consultando o sistema de gerenciamento de logs.
 
 ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/a27acd3f70289236f56073c0f042e34ae47bdcdd/Phishing/Captura%20de%20tela%202026-04-16%20110742.png)
+ Encontrei um endereço de contato que coincide com o mostrado no total de vírus acima.
