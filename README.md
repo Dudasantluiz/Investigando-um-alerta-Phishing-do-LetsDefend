@@ -41,3 +41,5 @@ Com base nos resultados, o conteúdo do e-mail é suspeito.
 Existe algum tipo de vínculo? Sim
 Com base na minha pesquisa anterior, constatei que há um anexo no e-mail
 ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/03d691a42d8d88be4b72242afcd4b5d5d9b4e3c4/Phishing/Captura%20de%20tela%202026-04-16%20104912.png)
+
+Para analisar o anexo, utilizei o VirusTotal e o Hybrid Analysis e, com base no que descobri, o anexo é malicioso.
