@@ -65,6 +65,10 @@ Ao verificar o endereço de contato, comparei as informações com o gerenciamen
  ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/6c97815b994a0edd577fb723c038a65cf05fc60a/Phishing/Captura%20de%20tela%202026-04-16%20114008.png)
  O registro que comprova a existência de um contato foi feito.
 Com base nas descobertas acima, alguém abriu o anexo do e-mail.
+Você pode ver que o endereço IP do domínio contatado foi permitido na segurança do endpoint e que pertence a richard.
 
+Vamos voltar aos trilhos.
+
+Para conter esse ataque e navegar pelo EDR do SIEM
 ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/0941e71d07966acd82d16a2e65d8784e1b18d7db/Phishing/Captura%20de%20tela%202026-04-16%20114351.png)
 
