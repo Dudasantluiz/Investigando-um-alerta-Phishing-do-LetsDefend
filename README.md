@@ -14,3 +14,19 @@ Então começou o manual de instruções.
 O primeiro passo foi "Analisar o e-mail" e coletar informações sobre a mensagem recebida. O próprio alerta contém a maior parte das informações
 
 ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/ede3ceaedd862969ab986d8e7edd49d095294000/Phishing/Captura%20de%20tela%202026-04-16%20103719.png)
+
+Após analisar o e-mail, encontrei o seguinte:
+
+Quando foi enviado?
+31 de janeiro de 2021, 15h48
+
+Qual é o endereço SMTP do e-mail?
+49.234.43.39
+
+Qual é o endereço do remetente?
+accounting@cmail.carleton.ca
+
+Qual é o endereço do destinatário?
+richard@letsdefend.io
+
+O conteúdo do e-mail é suspeito? Para verificar se o conteúdo do e-mail é suspeito, acesse a segurança de e-mail no painel do Let's Defend SIEM e procure o endereço de e-mail do destinatário.
