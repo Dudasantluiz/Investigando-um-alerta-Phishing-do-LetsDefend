@@ -56,3 +56,5 @@ Após verificar a ação do dispositivo destacada em vermelho, consta como permi
 
 Clique em “EXCLUIR” para continuar.
 ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/b2782d7721408a59348e87f85a944ea4a037f059/Phishing/Captura%20de%20tela%202026-04-16%20110102.png)
+
+Para confirmar se o anexo foi aberto ou não, acessei o VirusTotal e verifiquei o endereço de contato.
