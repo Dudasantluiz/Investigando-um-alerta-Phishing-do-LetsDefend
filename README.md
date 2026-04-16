@@ -55,3 +55,4 @@ Após verificar a ação do dispositivo destacada em vermelho, consta como permi
 ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/e0c45c6327b6f43e7c773e13acc9617f306271d9/Phishing/Captura%20de%20tela%202026-04-16%20105839.png)
 
 Clique em “EXCLUIR” para continuar.
+![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/b2782d7721408a59348e87f85a944ea4a037f059/Phishing/Captura%20de%20tela%202026-04-16%20110102.png)
