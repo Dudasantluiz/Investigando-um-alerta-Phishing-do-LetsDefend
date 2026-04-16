@@ -38,3 +38,4 @@ Clique no e-mail, copie o nome do anexo e cole-o no VirusTotal para confirmar se
 Após pesquisar o nome no VirusTotal, constatou-se que se trata de um vírus malicioso, pois 47 de 65 fornecedores o classificam como tal.
 ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/00f93749e01ffeeb7f0828ff130637a67c3ee6b7/Phishing/Captura%20de%20tela%202026-04-16%20104738.png)
 Com base nos resultados, o conteúdo do e-mail é suspeito.
+Existe algum tipo de vínculo? Sim
