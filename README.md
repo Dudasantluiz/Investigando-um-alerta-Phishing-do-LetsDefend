@@ -11,4 +11,6 @@ Cliquei em continuar e fui redirecionado para a interface do playbook, onde o pr
 
 Então começou o manual de instruções.
 
-O primeiro passo foi "Analisar o e-mail" e coletar informações sobre a mensagem recebida. O próprio alerta contém a maior parte das informações:
+O primeiro passo foi "Analisar o e-mail" e coletar informações sobre a mensagem recebida. O próprio alerta contém a maior parte das informações
+
+![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/ede3ceaedd862969ab986d8e7edd49d095294000/Phishing/Captura%20de%20tela%202026-04-16%20103719.png)
