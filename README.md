@@ -70,5 +70,6 @@ Você pode ver que o endereço IP do domínio contatado foi permitido na seguran
 Vamos voltar aos trilhos.
 
 Para conter esse ataque e navegar pelo EDR do SIEM
+![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/8166644a0bac18ef914ab813e11aee71c290ec51/Phishing/Captura%20de%20tela%202026-04-16%20112235.png)
 ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/0941e71d07966acd82d16a2e65d8784e1b18d7db/Phishing/Captura%20de%20tela%202026-04-16%20114351.png)
 
