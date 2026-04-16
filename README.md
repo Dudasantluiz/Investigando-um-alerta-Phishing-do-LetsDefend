@@ -86,5 +86,11 @@ Minha nota de analista com base na minha análise.
 Após concluir o guia, cliquei em confirmar.
 ![iamge alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/9592c0be441d9617295eaccf5c2b04248f033921/Phishing/Captura%20de%20tela%202026-04-16%20121008.png)
 
+![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/2e35da6b597a39cc8cc738c953bf9ea8a85240d9/Phishing/Captura%20de%20tela%202026-04-16%20121550.png)
+Isso indica que o manual foi concluído.
+Após a análise bem-sucedida, o alerta foi encerrado.
+
+Com base na análise realizada, este alerta indica "Verdadeiro Positivo".
+
 
 
