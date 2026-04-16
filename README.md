@@ -4,4 +4,4 @@ O Lets Defend SIEM detectou um e-mail de phishing e enviou um alerta. Neste arti
 
 Primeiramente, foi criado um caso para investigar este alerta.
 
-![image alt] (Captura de tela 2026-04-16 102741.png)
+![image alt] (https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/main/Captura%20de%20tela%202026-04-16%20102741.png?raw=true)
