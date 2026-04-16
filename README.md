@@ -66,3 +66,5 @@ Ao verificar o endereço de contato, comparei as informações com o gerenciamen
  O registro que comprova a existência de um contato foi feito.
 Com base nas descobertas acima, alguém abriu o anexo do e-mail.
 
+![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/0941e71d07966acd82d16a2e65d8784e1b18d7db/Phishing/Captura%20de%20tela%202026-04-16%20114351.png)
+
