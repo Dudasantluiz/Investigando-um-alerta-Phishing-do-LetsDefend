@@ -34,3 +34,5 @@ O conteúdo do e-mail é suspeito? Para verificar se o conteúdo do e-mail é su
 Clique no e-mail, copie o nome do anexo e cole-o no VirusTotal para confirmar se o anexo é suspeito.
 
 ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/8abb2b7cda2576dd44dda03f6951cf309623d99d/Phishing/Captura%20de%20tela%202026-04-16%20104438.png)
+
+Após pesquisar o nome no VirusTotal, constatou-se que se trata de um vírus malicioso, pois 47 de 65 fornecedores o classificam como tal.
