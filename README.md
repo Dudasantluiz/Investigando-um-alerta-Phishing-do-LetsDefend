@@ -44,3 +44,4 @@ Com base na minha pesquisa anterior, constatei que há um anexo no e-mail
 
 Para analisar o anexo, utilizei o VirusTotal e o Hybrid Analysis e, com base no que descobri, o anexo é malicioso.
 ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/4ceee2c076b0ded32ca3cb0c660b61e7528781e0/Phishing/Captura%20de%20tela%202026-04-16%20104738.png)
+![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/fb525d212b476ab47ceb21401b6eeaf83de2f881/Phishing/Captura%20de%20tela%202026-04-16%20105322.png)
