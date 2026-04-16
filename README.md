@@ -1,3 +1,6 @@
+
+Este documento tem como objetivo demonstrar o raciocínio analítico, o fluxo de trabalho de investigação e as melhores práticas de SOC.
+
 # Investigando-um-alerta-Phishing-do-LetsDefend
 
 O Lets Defend SIEM detectou um e-mail de phishing e enviou um alerta. Neste artigo, mostrarei passo a passo como investiguei o alerta seguindo o guia fornecido pelo Lets Defend SIEM.
