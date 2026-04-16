@@ -73,3 +73,14 @@ Para conter esse ataque e navegar pelo EDR do SIEM
 ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/8166644a0bac18ef914ab813e11aee71c290ec51/Phishing/Captura%20de%20tela%202026-04-16%20112235.png)
 ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/0941e71d07966acd82d16a2e65d8784e1b18d7db/Phishing/Captura%20de%20tela%202026-04-16%20114351.png)
 
+foram também adicionados os artefatos:
+andaluciabeach.net contact domain
+accounting@cmail email send
+cmail.carleton.ca    email domínio
+44e65a641fb970031c5efed324676b5018803e0a768608d3e186152102615795  md5 hash
+5.135.143.133 endereço de ip
+
+Minha nota de analista com base na minha análise.
+
+
+
