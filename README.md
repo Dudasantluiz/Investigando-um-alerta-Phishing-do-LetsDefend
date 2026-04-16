@@ -83,5 +83,7 @@ cmail.carleton.ca    email domínio
 Minha nota de analista com base na minha análise.
 ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/5764fdc707ab1d305b1d8683ac056caf05f1370d/Phishing/Captura%20de%20tela%202026-04-16%20120917.png)
 
+Após concluir o guia, cliquei em confirmar.
+
 
 
