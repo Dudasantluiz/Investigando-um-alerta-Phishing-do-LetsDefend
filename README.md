@@ -63,3 +63,6 @@ Ao verificar o endereço de contato, comparei as informações com o gerenciamen
 ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/a27acd3f70289236f56073c0f042e34ae47bdcdd/Phishing/Captura%20de%20tela%202026-04-16%20110742.png)
  Encontrei um endereço de contato que coincide com o mostrado no total de vírus acima.
  ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/6c97815b994a0edd577fb723c038a65cf05fc60a/Phishing/Captura%20de%20tela%202026-04-16%20114008.png)
+ O registro que comprova a existência de um contato foi feito.
+Com base nas descobertas acima, alguém abriu o anexo do e-mail.
+
