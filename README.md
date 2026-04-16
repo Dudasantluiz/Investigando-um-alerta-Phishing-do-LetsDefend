@@ -8,3 +8,7 @@ Primeiramente, foi criado um caso para investigar este alerta.
 
 Cliquei em continuar e fui redirecionado para a interface do playbook, onde o processo de investigação teve início.
 ![image alt](https://github.com/Dudasantluiz/Investigando-um-alerta-Phishing-do-LetsDefend/blob/97ad6eed07586417fd47bf82875553aa857d59a7/Phishing/Captura%20de%20tela%202026-04-16%20103419.png)
+
+Então começou o manual de instruções.
+
+O primeiro passo foi "Analisar o e-mail" e coletar informações sobre a mensagem recebida. O próprio alerta contém a maior parte das informações:
